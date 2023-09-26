@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ClojureProjectResolveSettings">
+    <currentScheme>IDE</currentScheme>
+  </component>
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="gke_twx-k8s_europe-west3-a_nexiles-cluster" />
+    <option name="namespace" value="siemens-nexiles-cloud" />
+  </component>
+</project>
